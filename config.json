@@ -1,14 +1,14 @@
 {
-"guardToken":"GUARD_TOKEN",
+"guardToken":"MTU1ODIyMTQyNDc1MjE5NzYzMg.G0_RfK.RwKSejYU2tYTBEVZRhDwtAoYEtkZqnFSfYF1Js",
 "backupToken":"BACKUP_TOKEN",
-"guildID":"SUNUCU_İD",
+"guildID":"1556969080995455056",
 "prefix":".",
 "mongoURL":"MONGO_URL",
 
 "status": [
-    "remornn işte ❤️",
-    "remornn ile",
-    "server ❤️ remornn"
+    "cerrahpasayi izliyor",
+    "cerrahpasa",
+    "server cerrahpasa"
 ],
 
 "backupsystem":[
@@ -18,8 +18,8 @@
 ],
 
 "ownerID":[
-    "OWNER_İD",
-    "OWNER_İD"
+    "1414944949576798299",
+    "1414944949576798299"
 ],
 
 "whitelist":[
